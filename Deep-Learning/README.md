@@ -1,4 +1,4 @@
-### Dropout Classification Practice
+01: Dropout Classification Practice
 
 - **Objective:** Practice binary classification using an Artificial Neural Network (ANN).
 - **Model:** Two hidden layers with 128 neurons each and ReLU activation.
